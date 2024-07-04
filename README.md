@@ -7,6 +7,6 @@
 
 
 # Structure
-![Image text](https://github.com/xdFai/DestripeCycleGAN/tree/main/Fig/image02.png)
+![Image text](https://github.com/xdFai/DestripeCycleGAN/blob/main/Fig/image1.png)
 
-![Image text](https://github.com/xdFai/DestripeCycleGAN/tree/main/Fig/image03.png)
+![Image text](https://github.com/xdFai/DestripeCycleGAN/blob/main/Fig/image2.png)
