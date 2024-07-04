@@ -10,3 +10,7 @@
 ![Image text](https://github.com/xdFai/DestripeCycleGAN/blob/main/Fig/image1.png)
 
 ![Image text](https://github.com/xdFai/DestripeCycleGAN/blob/main/Fig/image2.png)
+
+
+# Introduction
+DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping. Shiqi Yang, Hanlin Qin, Shuai Yuan, Xiang Yan
