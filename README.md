@@ -3,7 +3,7 @@
 [[Paper]](https://arxiv.org/abs/2402.09101)
 
 # Chanlleges and inspiration   
-![Image text](https://github.com/xdFai/DestripeCycleGAN/tree/main/Fig/image01.png)
+![Image text](https://github.com/xdFai/DestripeCycleGAN/blob/main/Fig/image0.png)
 
 
 # Structure
