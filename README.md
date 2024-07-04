@@ -41,7 +41,10 @@ If you find the code useful, please consider citing our paper using the followin
 
 
 #### 1. Data
-
+Generate your dataset.
+```bash
+python prepare_patches.py
+```
 
 ##### 2. Train.
 ```bash
@@ -52,7 +55,6 @@ python train.py
 ```bash
 python test.py
 ```
-
 
 ## Contact
 **Welcome to raise issues or email to [22191214967@stu.xidian.edu.cn](22191214967@stu.xidian.edu.cn) or [yuansy@stu.xidian.edu.cn](yuansy@stu.xidian.edu.cn) for any question regarding our DestripeCycleGAN.**
