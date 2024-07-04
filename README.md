@@ -41,10 +41,7 @@ If you find the code useful, please consider citing our paper using the followin
 
 
 #### 1. Data
-Generate your dataset.
-```bash
-python prepare_patches.py
-```
+* **Our project has the following structure:**
 
 ##### 2. Train.
 ```bash
