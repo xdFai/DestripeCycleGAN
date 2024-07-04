@@ -22,3 +22,37 @@ The main contributions of this paper are as follows:
 2. The Haar Wavelet Background Guidance Module (HBGM) is designed to mitigate the impact of vertical stripes and accurately assess the consistency of background details. As a plug-and-play image constraint module, it can offer a powerful unsupervised restriction for DestripeCycleGAN.
    
 3. We design multi-level wavelet U-Net (MWUNet) that leverages Haar wavelet sampling to minimize feature loss. The network effectively integrates multi-scale features and strengthens long-range dependencies by using group fusion block (GFB) in skip connections.
+
+
+## Citation
+
+If you find the code useful, please consider citing our paper using the following BibTeX entry.
+
+```
+@article{yang2024destripecyclegan,
+  title={DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping},
+  author={Yang, Shiqi and Qin, Hanlin and Yuan, Shuai and Yan, Xiang and Rahmani, Hossein},
+  journal={arXiv preprint arXiv:2402.09101},
+  year={2024}
+}
+```
+
+## Usage
+
+
+#### 1. Data
+
+
+##### 2. Train.
+```bash
+python train.py
+```
+
+#### 3. Test and demo.
+```bash
+python test.py
+```
+
+
+## Contact
+**Welcome to raise issues or email to [22191214967@stu.xidian.edu.cn](22191214967@stu.xidian.edu.cn) or [yuansy@stu.xidian.edu.cn](yuansy@stu.xidian.edu.cn) for any question regarding our DestripeCycleGAN.**
