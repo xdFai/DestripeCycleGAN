@@ -1,4 +1,4 @@
-# This is the code of  paper 'DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping'
+# DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping
 
 [[Paper]](https://arxiv.org/abs/2402.09101)
 
