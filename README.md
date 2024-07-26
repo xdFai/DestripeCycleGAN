@@ -32,7 +32,7 @@ If you find the code useful, please consider citing our paper using the followin
 @article{yang2024destripecyclegan,
   title={DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping},
   author={Yang, Shiqi and Qin, Hanlin and Yuan, Shuai and Yan, Xiang and Rahmani, Hossein},
-  journal={arXiv preprint arXiv:2402.09101},
+  journal={IEEE Transactions on Instrumentation and Measurement},
   year={2024}
 }
 ```
