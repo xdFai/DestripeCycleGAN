@@ -1,6 +1,6 @@
 # DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping
 
-Shiqi Yang, Hanlin Qin, Shuai Yuan, Xiang Yan, Hossein Rahmani, IEEE Transactions on Instrumentation and Measurement, 2024 [[Paper]](https://arxiv.org/abs/2402.09101)
+Shiqi Yang, Hanlin Qin, Shuai Yuan, Xiang Yan, Hossein Rahmani, IEEE Transactions on Instrumentation and Measurement, 2024 [[Paper]](https://ieeexplore.ieee.org/document/10711892)
 
 # Chanlleges and inspiration   
 ![Image text](https://github.com/xdFai/DestripeCycleGAN/blob/main/Fig/image0.png)
@@ -29,12 +29,17 @@ The main contributions of this paper are as follows:
 If you find the code useful, please consider citing our paper using the following BibTeX entry.
 
 ```
-@article{yang2024destripecyclegan,
-  title={DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping},
+@ARTICLE{10711892,
   author={Yang, Shiqi and Qin, Hanlin and Yuan, Shuai and Yan, Xiang and Rahmani, Hossein},
-  journal={IEEE Transactions on Instrumentation and Measurement},
-  year={2024}
-}
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping}, 
+  year={2024},
+  volume={73},
+  number={},
+  pages={1-14},
+  keywords={Noise;Wavelet transforms;Generators;Semantics;Noise reduction;Image restoration;Computational modeling;Adaptation models;Wavelet domain;Image reconstruction;Convolutional neural network (CNN);CycleGAN;infrared image destriping;stripe prior modeling;unsupervised learning},
+  doi={10.1109/TIM.2024.3476560}}
+
 ```
 
 ## Usage
