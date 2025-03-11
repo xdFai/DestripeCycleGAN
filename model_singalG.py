@@ -73,12 +73,6 @@ class DerainCycleGAN(nn.Module):
     def test_forward(self, image1, image2=None, a2b=None):
         if a2b:
             self.fake_A_encoded = self.genA.forward(image1)
-        else:
-            self.mask_a = self.urad(image1)
-            batch_size, row, col = self.mask_a[5].size(0), self.mask_a[5].size(2), self.mask_a[5].size(3)
-            noise = (torch.rand(batch_size, 1, row, col) * 0.01).cuda()
-            self.mask_a[5] = self.mask_a[5] + noise
-            self.fake_A_encoded = self.genB.forward(image2, self.mask_a[5])
         return self.fake_A_encoded
 
     def forward(self, ep, opts):
