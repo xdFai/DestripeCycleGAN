@@ -1,6 +1,7 @@
 # DestripeCycleGAN: Stripe Simulation CycleGAN for Unsupervised Infrared Image Destriping
 
-Shiqi Yang, Hanlin Qin, Shuai Yuan, Xiang Yan, Hossein Rahmani, IEEE Transactions on Instrumentation and Measurement, 2024 [[Paper]](https://ieeexplore.ieee.org/document/10711892)
+Shiqi Yang, Hanlin Qin, Shuai Yuan, Xiang Yan, Hossein Rahmani, IEEE Transactions on Instrumentation and Measurement, 2024 [[Paper]](https://ieeexplore.ieee.org/document/10711892) [[Weight]](https://drive.google.com/file/d/1VhCR8dTqmqpQSaA_f4GokRzaCCXq5cG8/view?usp=sharing)
+
 
 # Chanlleges and inspiration   
 ![Image text](https://github.com/xdFai/DestripeCycleGAN/blob/main/Fig/image0.png)
