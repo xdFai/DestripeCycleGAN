@@ -54,7 +54,7 @@ If you find the code useful, please consider citing our paper using the followin
 python train.py
 ```
 
-#### 3. Test and demo.
+#### 3. Test and demo.  [[Weight]](https://drive.google.com/file/d/1VhCR8dTqmqpQSaA_f4GokRzaCCXq5cG8/view?usp=sharing)
 ```bash
 python test.py
 ```
